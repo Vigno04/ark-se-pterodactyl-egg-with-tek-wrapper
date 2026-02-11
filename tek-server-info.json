@@ -1,0 +1,27 @@
+{
+  "HosterName": "Vigno",
+  "ServerName": "Ark.vigno",
+  "ClusterName": "Cluster.vigno",
+  "IconUrl": "",
+  "Discord": "",
+  "ServerDescription": {
+    "MaxDinoLvl": 180,
+    "Taming": 2.0,
+    "Experience": 1.0,
+    "Harvesting": 6.0,
+    "Breeding": 1.0,
+    "Stacks": 1.0,
+    "Other": [
+    ]
+  },
+  "ClusterDescription": {
+    "MaxDinoLvl": 180,
+    "Taming": 2.0,
+    "Experience": 1.0,
+    "Harvesting": 6.0,
+    "Breeding": 1.0,
+    "Stacks": 1.0,
+    "Other": [
+    ]
+  }
+}
